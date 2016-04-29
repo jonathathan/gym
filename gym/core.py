@@ -159,7 +159,7 @@ class Space(object):
 
     def sample(self, seed=0):
         """
-        Uniformly randomly sample a random elemnt of this space
+        Uniformly randomly sample a random element of this space
         """
         raise NotImplementedError
 
